@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <TextView
+        android:id="@+id/BEEP_TEST_APP"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/BEEP_TEST_APP"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="20dp"/>
+
+    <Button
+        android:id="@+id/AudioTrack_static_mode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/AudioTrack_static_mode" />
+
+    <Button
+        android:id="@+id/Beeper"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Beeper" />
+
+    <Button
+        android:id="@+id/ToneGenerator"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ToneGenerator" />
+
+</LinearLayout>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestBeep</string>
+    <string name="BEEP_TEST_APP">BEEP_TEST_APP</string>
+    <string name="AudioTrack_static_mode">AudioTrack_static_mode</string>
+    <string name="Beeper">Beeper</string>
+    <string name="ToneGenerator">ToneGenerator</string>
+</resources>
